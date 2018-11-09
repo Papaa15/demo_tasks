@@ -18,7 +18,7 @@ switch($number){
     case 37:
     echo "is it 34";
     break;
-    case 35:
+    case 34:
     echo "is it 34";
      break;
     case 24:
@@ -32,8 +32,9 @@ switch($number){
 
 }
     
-    
-    
+
+             
+
 ?>
     
 </body>

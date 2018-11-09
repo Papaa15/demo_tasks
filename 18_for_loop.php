@@ -7,14 +7,17 @@
 <body>
 
 <?php 
-
+/*
 for($counter = 0; $counter < 10; $counter++){
 
     echo $counter . "<br>" ;
 
-}
+} */
     
+for ($mate = 23; $mate < 89; $mate++ ){
     
+    echo $mate . "<br>";
+}    
     
 ?>
 

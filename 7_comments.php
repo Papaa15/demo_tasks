@@ -14,12 +14,21 @@ this is multiline comment */
 
 // One line comment
     
-echo "Hello Student";  
+//echo "Hello Student";  
+function football() 
+{
     
+$new= array (23,45,63,89,8);
     
-?>  
+echo $new [2] . "<br>";
+    
+$name= array ('soccer' => 'Icardi');
+     echo $name['soccer']; }
+    
+   football(); 
+   ?>  
    
-
+ 
 </body>
 </html>
 

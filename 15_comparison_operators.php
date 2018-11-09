@@ -32,7 +32,7 @@
 
 
 <?php 
-   
+ /*  
 if(4 === 4 && 5 < 10 ) {
 
     echo "it is true <br>";
@@ -52,9 +52,18 @@ if(4 <> 5) {
     echo "it is true";
 
 }
-
-
+   */ 
     
+
+$name = array (42,52,46,8);
+
+$new = array ("icardi"=>"inter");  
+    
+echo $new ['icardi']. "<br>";
+    
+ if ($name[3]!=0) {echo "it is possible";}  
+    
+    else 
     
     
 ?>
